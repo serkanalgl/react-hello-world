@@ -6,7 +6,7 @@
   "scripts": {
     "build": "./node_modules/.bin/babel helloworld.js -o index.js",
     "prepublish": "npm run build"
-  }
+  },
   "author": "Serkan Algül <serkan@pribas.com>",
   "license": "ISC",
   "dependencies": {
